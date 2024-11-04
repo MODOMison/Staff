@@ -1,5 +1,5 @@
 # Concept_Staff
-UCSD Cogsci 18 - Final Project
+UCSD Cogsci 18 - Final Project - score: over 100% 
 
 
 how to run it!
